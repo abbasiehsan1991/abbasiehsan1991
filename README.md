@@ -2,6 +2,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-abbasi-50842a113/) 
 
+🔭 I’m currently working on Android/Kotlin
+
+👯 I’m looking to collaborate on Android projects
+
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -11,3 +16,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=abbasiehsan1991&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abbasiehsan1991&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasiehsan1991&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=chrisbanes)
+
+
+![Profile views](https://gpvc.arturio.dev/abbasiehsan1991)  
