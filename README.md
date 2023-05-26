@@ -17,7 +17,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abbasiehsan1991&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasiehsan1991&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=chrisbanes)
-
-
 ![Profile views](https://gpvc.arturio.dev/abbasiehsan1991)  
